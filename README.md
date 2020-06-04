@@ -4,7 +4,7 @@ welcom to my first program on github
 
 this program speaks and it have a random game and it also givs you a random word
 
-so it will print: 
+so here is how it works: 
 
 
 starting None
