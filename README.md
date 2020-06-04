@@ -18,10 +18,10 @@ do you want to speak it(1) or save it(2)
                
                
 a single random word(1) or list of Random words(2) 
-
-                  or Word of the day(3): (choose what you want for exampele 2)
+               or Word of the day(3): (choose what you want for exampele: a list of random words(2) and click enter)
 
 ['vaudevillist', 'rewarewa', 'rescueman', 'uncowed', 'switcheroos', 'umbral', 'snide', 'nonconservative', 'Westgate', 'colosseums', 'dinna', 'shrinkwrap', 'lilting', 'foresees', 'shoeboy', 'untill', 'darken', 'tridental', 'valinomycin', 'outspeak', 'handpicked', 'tibiofibular', 'chuck-full', 'folksonomies', 'whateverist', 'columbarium', 'Fates', 'deluding', 'bonitarian', 'mellowest', 'philosophasters', 'sharpener', 'daily', 'downstroke', 'helideck', 'extinguish', 'insufficiency', 'indagation', 'magistrates', 'toenailed', 'nonidentity', 'geophagy', 'whipsawed', 'drudgery', 'echolocational', 'hatstands', 'vanishingly', 'bull-whack', 'hiver', 're-encountered']
+
 
 and it will repeat the whole process again
 
