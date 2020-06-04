@@ -1,2 +1,2 @@
 # randomness
-the out put is randomrandom programs and random stuff 
+sorry this my first github project
