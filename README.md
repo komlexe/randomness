@@ -5,8 +5,12 @@ welcom to my first program on github
 this program speaks and it have a random game and it also givs you a random word
 
 so it will print: 
-
-                            
+                           .___                                          
+ ____________    ____    __| _/____   _____   ____   ____   ______ ______
+ \_  __ \__  \  /    \  / __ |/  _ \ /     \ /    \_/ __ \ /  ___//  ___/
+  |  | \// __ \|   |  \/ /_/ (  <_> )  Y Y  \   |  \  ___/ \___ \ \___ \ 
+  |__|  (____  /___|  /\____ |\____/|__|_|  /___|  /\___  >____  >____  >
+             \/     \/      \/            \/     \/     \/     \/     \/
 starting None
 word None 1 0
 finishing None True
