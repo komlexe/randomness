@@ -26,3 +26,4 @@ a single random word(1) or list of Random words(2)
 and it will repeat the whole process again
 
 
+sorry this is my first progect on github and in real life so it's not going to be that professional
