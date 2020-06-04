@@ -1,9 +1,4 @@
-                           .___                                          
- ____________    ____    __| _/____   _____   ____   ____   ______ ______
- \_  __ \__  \  /    \  / __ |/  _ \ /     \ /    \_/ __ \ /  ___//  ___/
-  |  | \// __ \|   |  \/ /_/ (  <_> )  Y Y  \   |  \  ___/ \___ \ \___ \ 
-  |__|  (____  /___|  /\____ |\____/|__|_|  /___|  /\___  >____  >____  >
-             \/     \/      \/            \/     \/     \/     \/     \/ 
+
 
 welcom to my first program on github
 
@@ -32,4 +27,5 @@ a single random word(1) or list of Random words(2)
 and it will repeat the whole process again
 
 
-sorry this is my first progect on github and in real life so it's not going to be that professional
+my fist project
+
