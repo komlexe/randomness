@@ -1,12 +1,12 @@
 
 
-#welcom to my first program on github
+# welcom to my first program on github
 
-##randomness
+## randomness
 
 this program speaks and it have a random game and it also givs you a random word
 
-###so here is how it works: 
+### so here is how it works: 
 
 
 starting None
