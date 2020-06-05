@@ -21,5 +21,5 @@ it will tell you a single word or a list of word or the word of the day so if yo
 *for the greeting i used date time so it will know wehn to say good morning or good evening or good afternoon
 
 
-#my fist project
+# my fist project
 
