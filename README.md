@@ -17,7 +17,9 @@ it will tell you a single word or a list of word or the word of the day so if yo
 ### and it will repeat the whole process again
 
 *for speech i used pyttsx3
+
 *for the random words i used RandomWords and random
+
 *for the greeting i used date time so it will know wehn to say good morning or good evening or good afternoon
 
 
