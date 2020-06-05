@@ -8,25 +8,17 @@ this program speaks and it have a random game and it also givs you a random word
 
 ### so here is how it works: 
 
+when you run it speaks and then it will tell you to input sumthing so when you input sumthing
 
-starting None
-word None 1 0
-finishing None True
-input sumthing: (any word you want and click enter)
+it tells you do want to speak it or save it or do you want to play a game or get a random word so if you choose the random word
 
-do you want to speak it(1) or save it(2)
-               or do want to play a guessing game(3)
-               or di you want to get a random ward(4): (chose the number next to the thing you want for exampele 4)
-               
-               
-a single random word(1) or list of Random words(2) 
-               or Word of the day(3): (choose what you want for exampele: a list of random words(2) and click enter)
+it will tell you a single word or a list of word or the word of the day so if you choose the word of the day it tell you a random word
 
-['vaudevillist', 'rewarewa', 'rescueman', 'uncowed', 'switcheroos', 'umbral', 'snide', 'nonconservative', 'Westgate', 'colosseums', 'dinna', 'shrinkwrap', 'lilting', 'foresees', 'shoeboy', 'untill', 'darken', 'tridental', 'valinomycin', 'outspeak', 'handpicked', 'tibiofibular', 'chuck-full', 'folksonomies', 'whateverist', 'columbarium', 'Fates', 'deluding', 'bonitarian', 'mellowest', 'philosophasters', 'sharpener', 'daily', 'downstroke', 'helideck', 'extinguish', 'insufficiency', 'indagation', 'magistrates', 'toenailed', 'nonidentity', 'geophagy', 'whipsawed', 'drudgery', 'echolocational', 'hatstands', 'vanishingly', 'bull-whack', 'hiver', 're-encountered']
+###and it will repeat the whole process again
 
-
-
-and it will repeat the whole process again
+*for speech i used pyttsx3
+*for the random words i used RandomWords and random
+*for the greeting i used date time so it will know wehn to say good morning or good evening or good afternoon
 
 
 #my fist project
