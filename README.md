@@ -14,7 +14,7 @@ it tells you do want to speak it or save it or do you want to play a game or get
 
 it will tell you a single word or a list of word or the word of the day so if you choose the word of the day it tell you a random word
 
-###and it will repeat the whole process again
+### and it will repeat the whole process again
 
 *for speech i used pyttsx3
 *for the random words i used RandomWords and random
