@@ -1,10 +1,12 @@
 
 
-welcom to my first program on github
+#welcom to my first program on github
+
+##randomness
 
 this program speaks and it have a random game and it also givs you a random word
 
-so here is how it works: 
+###so here is how it works: 
 
 
 starting None
@@ -27,5 +29,5 @@ a single random word(1) or list of Random words(2)
 and it will repeat the whole process again
 
 
-my fist project
+#my fist project
 
